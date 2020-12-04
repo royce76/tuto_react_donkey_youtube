@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Destructuring</title>
+</head>
+<body>
+    <script>
+
+        // let array = ["Mark", "Lea", "Justine"];
+
+        // let  [userOne,...rest] = array;
+
+        // console.log(rest);
+
+        let members = {
+            userOne: "Mark",
+            userTwo: "Lea",
+            userthree: "Justine"
+        };
+
+        // let {userOne, userTwo,...rest} = members;
+
+        // console.log(rest);
+
+        let {userOne:Hulk, userTwo:Spiderman,userthree:Superman} = members;
+
+        console.log(Hulk);
+
+
+    </script>
+</body>
+</html>
