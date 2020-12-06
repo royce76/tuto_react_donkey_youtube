@@ -16,8 +16,6 @@
 >
 >> video_14 les conditions
 >
->> video_15 les images
->
->> video_16 les formulaires
+>> video_15 les images include(video_16 les formulaires)
 >
 >> video_17 le css
