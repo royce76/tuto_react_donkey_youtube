@@ -20,4 +20,6 @@
 >
 >> video_17 le css
 >
->> video_18 (jusqu'à video 21) le cycle de vie dans réact 
+>> video_18 (jusqu'à video 21) le cycle de vie dans réact
+>
+>> video_22 Getderived...  
