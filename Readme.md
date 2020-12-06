@@ -19,3 +19,5 @@
 >> video_15 les images include(video_16 les formulaires)
 >
 >> video_17 le css
+>
+>> video_18 (jusqu'à video 21) le cycle de vie dans réact 
