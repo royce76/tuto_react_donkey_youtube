@@ -19,6 +19,11 @@ class MyComponent extends Component {
         return null;
     }
 
+    shouldComponentUpdate(nextprops, nextState) {
+        console.log('je suis dans shouldComponentUpdate');
+        return true;
+    }
+
     render() {
         return (
             <div>

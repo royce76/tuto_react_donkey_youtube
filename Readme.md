@@ -22,4 +22,6 @@
 >
 >> video_18 (jusqu'à video 21) le cycle de vie dans réact
 >
->> video_22 Getderived...  
+>> video_22 Getderived...
+>
+>> video_23(video_24) should or not should car pureComponent  
